@@ -3,9 +3,9 @@ The Airbnb Clone Project is a comprehensive, real-world application designed to 
 # Team Roles
 Back-end developers, in turn, implement the core of an app—its algorithms and business logic. Experienced back-end developers not only write code but also do the tasks of an architect—for example, devise an app architecture or design and implement the necessary integrations.
 # Technology Stack
-Django: A web framework for building RESTful APIs.
-PostgreSQL: An open-source, object-relational database. It’s designed for enterprise-level performance and is valued for its robust features and reliability.
-GraphQL: GraphQL is a query language for APIs and a runtime for fulfilling those queries with your existing data. G
+* `Django` - A web framework for building RESTful APIs.
+* `PostgreSQL` - An open-source, object-relational database. It’s designed for enterprise-level performance and is valued for its robust features and reliability.
+* `GraphQL` - GraphQL is a query language for APIs and a runtime for fulfilling those queries with your existing data. G
 
 # Database Design
 
